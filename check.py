@@ -1,3 +1,2 @@
-x='Lohith'
-z='Iadded'
+x='Loh'
 y='something'
