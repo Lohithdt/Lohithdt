@@ -1,2 +1,0 @@
-x='Lohith'
-y='Continental'
